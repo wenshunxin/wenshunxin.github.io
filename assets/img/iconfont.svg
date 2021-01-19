@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="tuichuquanping" unicode="&#58945;" d="M568.88 474.827l166.58 166.58 33.94-33.94-166.58-166.581zM539.267 411.334l0.058 48 192.05-0.235-0.059-48zM539.097 603.329l48 0.059 0.235-192.05-48-0.059zM254.597 160.527l166.58 166.58 33.941-33.941-166.58-166.58zM292.605 308.909l0.059 48 192.05-0.235-0.059-48zM436.659 356.654l48 0.059 0.234-192.05-48-0.059zM855.95 244.23h48v-252.05h-48zM651.81 40.09h252.05v-48H651.81zM119.61 776.33h48v-252.05h-48zM119.7 776.42h252.05v-48H119.7zM651.81 776.42h252.05v-48H651.81zM855.95 776.33h48v-252.05h-48zM119.7 40.09h252.05v-48H119.7zM119.61 244.23h48v-252.05h-48z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
